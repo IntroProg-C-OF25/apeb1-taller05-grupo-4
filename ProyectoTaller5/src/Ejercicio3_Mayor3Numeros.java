@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author Lenovo
- */
 public class Ejercicio3_Mayor3Numeros {
-    
+    public static void main(String[] args) {
+       /* int n1, n2, n3, m1, m2;
+        if (n1 > n2)
+            m1 = n1;
+        else
+            m1 = */
+    }
 }
